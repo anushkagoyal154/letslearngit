@@ -3,4 +3,5 @@ int main(){
     int a,b;
     int sum=a*b;
     printf(" sum is : %d",sum);
+    printf("hello");
 }
